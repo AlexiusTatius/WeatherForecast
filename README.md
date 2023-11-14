@@ -1,15 +1,13 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+The weather forecast project is a project for the client to see the weather forecast of any location in the world. The project is built using HTML, CSS, and Vanilla JavaScript. The project uses the OpenWeatherMap API to fetch the weather forecast data. 
+The user-friendly UI of the project makes it easy for the client to use the project. The project is responsive and can be used on any device. 
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript, API
+**Client:** HTML, CSS, Vanilla JavaScript, API
 
-## Demo
-
-Insert gif or link to demo
 
 ## Features
 
@@ -27,13 +25,13 @@ Insert gif or link to demo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AlexiusTatius/WeatherForecast.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd WeatherForecast
 ```
 
 Open with VSCode
