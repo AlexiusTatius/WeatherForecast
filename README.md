@@ -13,9 +13,10 @@ Insert gif or link to demo
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Feature 1 - Weather forecast of any location in the world.
+- Feature 2 - Weather forecast for the next 24 hours.
+- Feature 3 - Additional information such as humidity, wind speed, mentioned in the project.
+- Feature 4 - Graphic UI for the weather forecast.
 
 ## Screenshots
 
