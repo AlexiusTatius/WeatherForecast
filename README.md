@@ -46,16 +46,4 @@ Open with live server
 ```bash
   npm run start
 ```
-
-
-## Authors
-
-- [@codewithsadee](https://www.github.com/codewithsadee)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
+You can also install the Live Server extension in VSCode and click on "Go Live" at the bottom right corner of the screen.
